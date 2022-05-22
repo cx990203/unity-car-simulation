@@ -14,3 +14,4 @@ gitee源码链接：https://gitee.com/cx_opencv/unity-navigation</br>
 Demo演示视频：https://www.bilibili.com/video/BV1KT4y1r7ih?spm_id_from=333.999.0.0</br>
 车辆控制源码解释：https://www.bilibili.com/video/BV1r44y1g736?spm_id_from=333.999.0.0</br>
 相机与雷达源码解释：https://www.bilibili.com/video/BV1TT4y167uL?spm_id_from=333.999.0.0</br>
+服务器端以及导航界面源码解释：https://www.bilibili.com/video/BV1fF411L7W4?spm_id_from=333.999.0.0</br>
