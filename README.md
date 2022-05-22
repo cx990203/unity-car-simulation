@@ -9,7 +9,7 @@ unity车辆控制仿真项目源码</br>
 road.pth是我的神经网络模型参数，参数鲁莽性比较差，因此只能适用于我自己的目前unity工程当中的路面检测。想要进行实际性上的扩展还比较困难</br>
 ## 项目界面说明</br>
 ![项目结构](https://user-images.githubusercontent.com/77096562/169683694-7063f020-fc66-4fb1-a3c3-0bcb488c8be6.png)</br>
-## 相关连接</br>
+## 相关链接</br>
 gitee源码链接：https://gitee.com/cx_opencv/unity-navigation</br>
 Demo演示视频：https://www.bilibili.com/video/BV1KT4y1r7ih?spm_id_from=333.999.0.0</br>
 车辆控制源码解释：https://www.bilibili.com/video/BV1r44y1g736?spm_id_from=333.999.0.0</br>
