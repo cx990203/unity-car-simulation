@@ -1,6 +1,6 @@
 # unity-car-simulation
 unity车辆控制仿真项目源码</br>
-项目目录解释：</br>
+项目目录说明：</br>
 1、car-controls            ——    车辆控制源码</br>
 2、pyServer                ——    服务器端源码</br>
 3、navigation              ——    地图源码</br>
