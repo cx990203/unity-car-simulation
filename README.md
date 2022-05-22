@@ -9,6 +9,7 @@ road.pth是我的神经网络模型参数，参数鲁莽性比较差，因此只
 </br>
 </br>
 ![封面](https://user-images.githubusercontent.com/77096562/169683600-1c9ef9c9-d3db-43ba-a7da-04b960b2ef11.png)</br>
+![项目结构](https://user-images.githubusercontent.com/77096562/169683694-7063f020-fc66-4fb1-a3c3-0bcb488c8be6.png)</br>
 </br>
 </br>
 相关视频连接：</br>
