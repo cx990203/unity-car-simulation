@@ -11,6 +11,7 @@ road.pth是我的神经网络模型参数，参数鲁莽性比较差，因此只
 ![项目结构](https://user-images.githubusercontent.com/77096562/169683694-7063f020-fc66-4fb1-a3c3-0bcb488c8be6.png)</br>
 </br>
 </br>
+gitee源码链接：https://gitee.com/cx_opencv/unity-navigation</br>
 相关视频连接：</br>
 Demo演示视频：https://www.bilibili.com/video/BV1KT4y1r7ih?spm_id_from=333.999.0.0</br>
 车辆控制源码解释：https://www.bilibili.com/video/BV1r44y1g736?spm_id_from=333.999.0.0</br>
