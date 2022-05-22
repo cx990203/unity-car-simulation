@@ -5,6 +5,7 @@ unity车辆控制仿真项目源码</br>
 2、pyServer                ——    服务器端源码</br>
 3、navigation              ——    地图源码</br>
 4、deeplabv3_parameter     ——    deeplabv3+模型参数</br>
+5、image                   ——    unity中的道路图片，使用的话只需要使用贴图贴在物体表面就好</br>
 road.pth是我的神经网络模型参数，参数鲁莽性比较差，因此只能适用于我自己的目前unity工程当中的路面检测。想要进行实际性上的扩展还比较困难</br>
 </br>
 </br>
